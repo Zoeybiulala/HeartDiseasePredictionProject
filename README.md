@@ -1,1 +1,1 @@
-# HeartDiseasePredictionProject
+# Heart Disease Prediction Project
